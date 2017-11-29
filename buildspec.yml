@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      -echo Nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - CameronDobbs_Resume.dox
+    - sytles/main.css
+    - images/*
