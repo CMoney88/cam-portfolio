@@ -8,6 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - CameronDobbs_Resume.dox
-    - sytles/main.css
+    - CameronDobbs_Resume.pdf
+    - styles/main.css
     - images/*
